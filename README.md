@@ -7,5 +7,5 @@ Models of Support Vector Machines and Convolutional Neural Networks were applied
 
 https://drive.google.com/file/d/1yG_TjcNPEsFOUcqYE6t5fy9WWoB8cOON/view?usp=sharing
 
-##I used VS code, Python to push the files to my GitHub Repository.
+##I used VS code, and Python to push the files to my GitHub Repository.
 ##Also, you can use the above-provided link to check the Google Collab Notebook.
